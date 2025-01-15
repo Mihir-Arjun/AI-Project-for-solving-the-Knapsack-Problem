@@ -2,6 +2,10 @@
 
 This project implements a genetic algorithm and a genetic algorithm using a local search in order to solve instances of the Knapsack Problem, an optimization problem where items with weights and values must be selected to maximize value while staying within a given weight limit.
 
+## Technical Setup
+
+To find out more about how this project has been set up and my findings please read the report available above.
+
 ## Usage
 
 1. Compile the Java files: This can be done by either running the main in your IDE of choice or executing the jar files. The command for those jar files are as follows:
